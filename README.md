@@ -5,7 +5,7 @@
 ### <img src="https://www.svgrepo.com/show/22209/file.svg" width="15px"/>About Me
 
 <p align="left"> 
-    <strong>--></strong>Studying Software Engineering at <a href="https://unb.com.br">UnB(Universidade de Brasília).</a></br>
+    <strong>--></strong>Studying Software Engineering at <a href="https://www.unb.com.br">UnB(Universidade de Brasília).</a></br>
     <strong>--></strong>Exploring and learning about web development with JavaScript and Python</br>
 </p>
 
