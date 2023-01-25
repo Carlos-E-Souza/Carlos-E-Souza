@@ -20,6 +20,7 @@
    ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
    ![Node](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js)
    ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+   ![Nest.js](https://img.shields.io/badge/-Nest.js-333333?style=flat&logo=nest.js)
    ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
    ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
    ![Linux](https://img.shields.io/badge/Linux-333333?style=flat&logo=linux&logoColor=blue)
