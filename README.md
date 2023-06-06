@@ -32,3 +32,9 @@
 [![Linkedin: SEU NOME](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/carlos-eduardo-souza-6811bb18a/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:carlos.e.souza2653@gmail.com)
 [![GitHub]( https://img.shields.io/github/followers/Carlos-E-Souza?label=follow&style=social)](https://github.com/Carlos-E-Souza)
+
+<div align="center">
+  <a href="https://github.com/Carlos-E-Souza">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlos-E-Souza&show_icons=true&theme=midnight-purple&include_all_commits=true&count_public=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-E-Souza&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
