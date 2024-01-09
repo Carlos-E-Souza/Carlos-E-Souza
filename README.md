@@ -12,6 +12,7 @@
 
 ### <img src="https://www.svgrepo.com/show/40893/computer.svg" width="15px"/> Skills and Tools
 
+   ![Java](https://img.shields.io/badge/Java-000.svg??style=for-the-badge&logo=openjdk&logoColor=white)
    ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
    ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
    ![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=flat&logo=typescript)
